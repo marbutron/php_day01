@@ -1,0 +1,17 @@
+[2888]	2025-04-16 15:47:56.699	- Info  -	Version: 15.8.3.19819, PID: 2884, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe" --mod=service]
+[2888]	2025-04-16 15:47:56.715	- Info  -	[service_main] [main] Service run!
+[2888]	2025-04-16 15:47:56.715	- Info  -	[update_app_agent] [main] do update_app_agent !
+[4928]	2025-04-16 15:47:56.715	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4928]	2025-04-16 15:47:56.715	- Info  -	[safe_process_pipe::on_restart_process] sunlogin_guard process pipe start!
+[4928]	2025-04-16 15:47:56.731	- Info  -	[agent] DesktopAgentServer created with port 0.
+[5004]	2025-04-16 15:47:56.731	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4928]	2025-04-16 15:47:56.731	- Info  -	[CLocalServer::LoadProxy] Not use proxy
+[4928]	2025-04-16 15:47:56.731	- Info  -	[get_client_info] get mac address: 00:E0:0A:03:3D:F2
+[5004]	2025-04-16 15:47:56.731	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4928]	2025-04-16 15:47:56.731	- Info  -	[os] Drive Info :HongKe 240G
+[4928]	2025-04-16 15:47:56.731	- Info  -	[os] Video Controller Info :NVIDIA GeForce GTX 1050 Ti
+[4928]	2025-04-16 15:47:56.731	- Info  -	[get_client_info] os name:Windows 10 Enterprise 2016 LTSB
+[4928]	2025-04-16 15:47:56.731	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4992]	2025-04-16 15:47:56.746	- Info  -	[client] Do login start with type: fastcode login type
+[4992]	2025-04-16 15:47:56.746	- Info  -	[client] change status to logging
+[4992]	2025-04-16 15:47:56.746	- Info  -	[LocalServer] bind mac address: 00:E0:0A:03:3D:F2
