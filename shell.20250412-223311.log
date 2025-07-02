@@ -1,0 +1,26 @@
+[5200]	2025-04-12 22:33:11.314	- Info  -	Version: 15.8.3.19819, PID: 5172, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe"  --admin=1]
+[5200]	2025-04-12 22:33:11.365	- Info  -	[check_version_state] ver_state:0
+[5200]	2025-04-12 22:33:12.285	* Error *	[HardDeviceManager::CreateAndOpenDb] create OperateData failed, nRst=14
+[6824]	2025-04-12 22:33:12.351	- Info  -	start service result 1
+[2484]	2025-04-12 22:33:12.351	- Info  -	[CLocalNewShell::OnConnect] [shell] OnConnect
+[5200]	2025-04-12 22:33:14.385	- Info  -	[main_dlg::create_tray] [MainDialog] create_tray enable:1,getlasterror:0
+[5200]	2025-04-12 22:33:14.430	- Info  -	[main_dlg::OnUserMessage] [service] service_enable with result true
+[2484]	2025-04-12 22:33:15.431	- Info  -	[CLocalNewShell::OnReceive] [shell] note_download_result:0
+[5200]	2025-04-12 22:33:15.475	- Info  -	[MAIN_DLG] NetWorkChanged is : 1
+[5200]	2025-04-12 22:33:15.482	- Info  -	[main_dlg::OnUserMessage] Donot get adver info when unlogin
+[7240]	2025-04-12 22:33:15.482	- Info  -	[SensorsDatas::init_sensors_thread] [sensors] init with file: C:/ProgramData/Oray/SunloginClient/sensors/datas
+[1112]	2025-04-12 22:33:18.067	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.140.51:443)
+[1112]	2025-04-12 22:33:20.080	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[1112]	2025-04-12 22:33:22.110	- Info  -	[CSockConnector] attempt to connect server client-api-v2.oray.com:443([2408:4005:312:e507:ef00:f7b:ff11:1721]:443)
+[1112]	2025-04-12 22:33:24.320	- Info  -	[CSockConnector] attempt to connect server upload-cdn.orayimg.com:443([2409:8c50:a00:2071:3::25]:443)
+[1112]	2025-04-12 22:33:26.344	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(101.37.116.112:443)
+[1112]	2025-04-12 22:33:26.497	- Info  -	[ArpDataManager::upload_arp_datas] insert arp data to db success! map_size=9
+[1112]	2025-04-12 22:33:48.862	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[1112]	2025-04-12 22:33:51.111	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[1112]	2025-04-12 22:33:51.111	- Info  -	[scan_login_websocket_client::connect_websocket] [ScanLogin] connecting TCP server api-std.sunlogin.oray.com:443 success.
+[1112]	2025-04-12 22:33:56.948	- Info  -	[CSockConnector] attempt to connect server auth-sl.oray.com:443(121.40.142.26:443)
+[1112]	2025-04-12 22:33:56.949	+Warning+	[passive:keepalive:] [2409:8c50:a00:2071:3::25]:443 disconnect by keepalive timeout(131890>=101359+30000)
+[1112]	2025-04-12 22:33:57.522	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[1112]	2025-04-12 22:33:57.522	- Info  -	[scan_login_websocket_client::connect_websocket] [ScanLogin] connecting TCP server api-std.sunlogin.oray.com:443 success.
+[6824]	2025-04-12 22:34:13.567	- Info  -	[main_dlg::get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[1112]	2025-04-12 22:34:34.450	+Warning+	[passive:keepalive:] 101.37.116.112:443 disconnect by keepalive timeout(169390>=131921+30000)
