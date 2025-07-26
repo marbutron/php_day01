@@ -1,0 +1,92 @@
+[10496]	2025-05-28 11:20:39.439	- Info  -	Version: 15.8.3.19819, PID: 10492, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe"  --admin=1]
+[10496]	2025-05-28 11:20:39.491	- Info  -	[check_version_state] ver_state:0
+[10616]	2025-05-28 11:20:40.509	- Info  -	start service result 1
+[10528]	2025-05-28 11:20:40.509	- Info  -	[CLocalNewShell::OnConnect] [shell] OnConnect
+[10528]	2025-05-28 11:20:40.615	- Info  -	[CLocalNewShell::OnReceive] [shell] status_changed:1, config:true
+[10496]	2025-05-28 11:20:42.544	- Info  -	[main_dlg::create_tray] [MainDialog] create_tray enable:1,getlasterror:0
+[10496]	2025-05-28 11:20:42.589	- Info  -	[main_dlg::OnUserMessage] [service] service_enable with result true
+[10528]	2025-05-28 11:20:43.590	- Info  -	[CLocalNewShell::OnReceive] [shell] note_download_result:0
+[10496]	2025-05-28 11:20:43.633	- Info  -	[MAIN_DLG] NetWorkChanged is : 1
+[10496]	2025-05-28 11:20:43.642	- Info  -	[main_dlg::OnUserMessage] Donot get adver info when unlogin
+[10748]	2025-05-28 11:20:43.642	- Info  -	[SensorsDatas::init_sensors_thread] [sensors] init with file: C:/ProgramData/Oray/SunloginClient/sensors/datas
+[10748]	2025-05-28 11:20:43.642	- Info  -	[SensorsDatas::init_sensors_thread] [sensors] login with 96864958
+[10616]	2025-05-28 11:20:43.729	- Info  -	[RemoteManager::DoLogin]
+[10524]	2025-05-28 11:20:47.629	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[10748]	2025-05-28 11:20:49.644	* Error *	[SensorsDatas::send_sensors_data_function] [sensors] data send failed!
+[10524]	2025-05-28 11:20:49.653	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[10524]	2025-05-28 11:20:51.685	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(112.124.20.98:443)
+[10524]	2025-05-28 11:20:51.688	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[10496]	2025-05-28 11:20:51.839	- Info  -	[RemotePluginManager::update_token_data] @ 884: update token data false, rpc list is empty!
+[10748]	2025-05-28 11:20:52.644	* Error *	[SensorsDatas::send_sensors_data_function] [sensors] data send failed!
+[10524]	2025-05-28 11:20:53.860	- Info  -	[CSockConnector] attempt to connect server client-api-v2.oray.com:443([2408:4005:312:e508:5ae6:e18c:d1fc:763f]:443)
+[10524]	2025-05-28 11:20:53.957	- Info  -	[ArpDataManager::upload_arp_datas] insert arp data to db success! map_size=9
+[10524]	2025-05-28 11:20:53.961	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(120.27.239.1:443)
+[10524]	2025-05-28 11:20:53.961	- Info  -	[scan_login_websocket_client::connect_websocket] [ScanLogin] connecting TCP server api-std.sunlogin.oray.com:443 success.
+[10524]	2025-05-28 11:20:53.965	- Info  -	[RemoteManager::FireOnLogin] [REMOTEMANAGER] login account result with true
+[10496]	2025-05-28 11:20:53.971	- Info  -	[SensorsDatas::Login] [sensors] login with 96864958
+[10496]	2025-05-28 11:20:53.976	- Info  -	[main_dlg::OnUserMessage] [MainDialog] first login for account down
+[10496]	2025-05-28 11:20:53.978	- Info  -	register_interface::PostApiInterface post api type = 6
+[10496]	2025-05-28 11:20:53.978	- Info  -	register_interface::PostApiInterface post api type = 5
+[10524]	2025-05-28 11:20:56.005	- Info  -	[CSockConnector] attempt to connect server user-api-v2.oray.com:443(116.62.147.155:443)
+[10524]	2025-05-28 11:20:56.005	- Info  -	[main_dlg::upload_first_datas] [MainDialog] upload data success!
+[10960]	2025-05-28 11:20:56.005	- Info  -	[long_connection::OnMessage] [LongConnect] WSS_GET_SERVER
+[10616]	2025-05-28 11:20:58.036	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10524]	2025-05-28 11:20:58.036	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10616]	2025-05-28 11:20:58.159	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10616]	2025-05-28 11:20:58.282	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10616]	2025-05-28 11:20:58.409	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10616]	2025-05-28 11:20:58.559	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443([2409:8c20:815:118:3::3ed]:443)
+[10524]	2025-05-28 11:21:00.069	- Info  -	[CSockConnector] attempt to connect server upload-cdn.orayimg.com:443([2409:8c50:a00:2252:3d::17]:443)
+[10524]	2025-05-28 11:21:00.106	- Info  -	[CSockConnector] attempt to connect server upload-cdn.orayimg.com:443([2409:8c50:a00:2252:3d::17]:443)
+[10524]	2025-05-28 11:21:00.164	- Info  -	[main_dlg::QueryClientFeature] [MAIN_DLG]: Get next update time
+[11184]	2025-05-28 11:21:03.047	- Info  -	[CSockConnector] attempt to connect server ws-std06.sunlogin.oray.com:443(118.31.62.236:443)
+[11184]	2025-05-28 11:21:03.232	- Info  -	[websocket:118.31.62.236:443] connected
+[11184]	2025-05-28 11:21:03.251	- Info  -	[long_connection::OnWebsocketMessage][websocket_listener] broker/Session: session_id:167780427.22667493,ttl:60030
+[11184]	2025-05-28 11:21:03.261	- Info  -	[CWebsocketClient::set_ping_interval] ping_interval:54027
+[10524]	2025-05-28 11:21:03.812	+Warning+	[passive:keepalive:] 112.124.20.98:443 disconnect by keepalive timeout(87796>=84218+3000)
+[10960]	2025-05-28 11:21:05.041	- Info  -	[long_connection::OnMessage] [LongConnect] WSS_CONNECTED
+[10496]	2025-05-28 11:21:05.042	- Info  -	[MAIN_DLG] [RED_YELLOW] LONG_CONNECTED
+[10496]	2025-05-28 11:21:09.642	- Info  -	[dlg_webbrowser_follow::OnWindowsMessage] [WebBrowser] WM_WEB_JS_RETURN lparam = 0
+[10496]	2025-05-28 11:21:18.155	- Info  -	[dlg_webbrowser_follow::OnWindowsMessage] [WebBrowser] WM_WEB_JS_RETURN lparam = 5
+[10524]	2025-05-28 11:21:37.572	+Warning+	[passive:keepalive:] [2409:8c20:815:118:3::3ed]:443 disconnect by keepalive timeout(121546>=84296+30000)
+[10524]	2025-05-28 11:21:37.588	+Warning+	[passive:keepalive:] [2409:8c50:a00:2252:3d::17]:443 disconnect by keepalive timeout(121562>=84156+30000)
+[10496]	2025-05-28 11:21:41.127	- Info  -	[maindlg language] config language is null.
+[10496]	2025-05-28 11:21:41.166	- Info  -	[net_p2p] net_p2p_create interface IConnectorRaw  version 1.0.0 modversion 1.0.0
+[10496]	2025-05-28 11:21:41.167	- Info  -	[net_p2p] net_p2p_create success
+[10496]	2025-05-28 11:21:41.226	- Info  -	[desktop_control] desktop_control_create interface IControlDesktopPlugin  version 1.5.1 modversion 1.5.1
+[10496]	2025-05-28 11:21:41.228	- Info  -	[DisplayClient] CDisplayClient::CDisplayClient(all)
+[10496]	2025-05-28 11:21:41.249	- Info  -	[sl_codec][private] create decoder success, image_id 8, size 1920 x 1080
+[10496]	2025-05-28 11:21:41.252	- Info  -	[sl_codec][private] create decoder success, image_id 8, size 1920 x 1080
+[10496]	2025-05-28 11:21:41.254	- Info  -	[desktop] CRemoteDesktopPlugin::CRemoteDesktopPlugin(all)
+[10496]	2025-05-28 11:21:41.254	- Info  -	[desktop_control] desktop_control_create success
+[10496]	2025-05-28 11:21:41.279	- Info  -	[desktop] SetDesktopMode: 1
+[10496]	2025-05-28 11:21:41.421	+Warning+	[dlg_plugin_public::get_qucik_key_config] hotkey_enable = 0
+[8468]	2025-05-28 11:21:41.453	- Info  -	[dlg_plugin_public::on_rpc_connect]
+[10496]	2025-05-28 11:21:41.453	- Info  -	connect_plugin_interface::PostApiInterface post api type = 22
+[10592]	2025-05-28 11:21:41.456	- Info  -	[RemotePluginManager::on_rpc_read] plugin connect index:1
+[10616]	2025-05-28 11:21:41.743	- Info  -	[main_dlg::get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[10524]	2025-05-28 11:21:43.470	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[10524]	2025-05-28 11:21:43.664	- Info  -	connect_plugin_interface::PostApiInterface post api type = 28
+[10524]	2025-05-28 11:21:43.667	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[10524]	2025-05-28 11:21:44.007	* Error *	[RemotePluginLogin::deal_with_express_logon_return] [remote_plugin_login] API_EXPRESS_LOGON err:134340609
+[10496]	2025-05-28 11:21:44.012	* Error *	[dlg_plugin_public::show_fastcode_error] REMOTE_LOGIN oray_code is 134340609
+[10524]	2025-05-28 11:21:46.033	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(112.124.20.98:443)
+[10524]	2025-05-28 11:21:46.160	- Info  -	[main_dlg::upload_first_datas] [MainDialog] upload data success!
+[10496]	2025-05-28 11:22:08.416	- Info  -	connect_plugin_interface::PostApiInterface post api type = 28
+[10524]	2025-05-28 11:22:08.420	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[10524]	2025-05-28 11:22:08.702	* Error *	[RemotePluginLogin::deal_with_express_logon_return] [remote_plugin_login] API_EXPRESS_LOGON err:134340609
+[10496]	2025-05-28 11:22:08.712	* Error *	[dlg_plugin_public::show_fastcode_error] REMOTE_LOGIN oray_code is 134340609
+[10524]	2025-05-28 11:22:08.749	- Info  -	[main_dlg::upload_first_datas] [MainDialog] upload data success!
+[10496]	2025-05-28 11:22:13.866	- Info  -	[dlg_plugin_public] call exit from 7761
+[10496]	2025-05-28 11:22:13.866	- Info  -	[MainDlg] setclose is true
+[8484]	2025-05-28 11:22:13.867	- Info  -	[MainDlg] setclose is true
+[10496]	2025-05-28 11:22:13.867	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[10496]	2025-05-28 11:22:13.867	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[10496]	2025-05-28 11:22:13.868	- Info  -	[dlg_plugin_public] recv WM_CHILD_WINDOW_DESTROY.
+[10496]	2025-05-28 11:22:13.869	- Info  -	[dlg_plugin_public] call exit from 3534
+[10496]	2025-05-28 11:22:13.902	- Info  -	[desktop] CRemoteDesktopPlugin::~CRemoteDesktopPlugin(void)
+[10496]	2025-05-28 11:22:13.902	- Info  -	[clipboard] stop Clipboard ok
+[10496]	2025-05-28 11:22:13.902	- Info  -	[dragclient] stop.
+[10592]	2025-05-28 11:22:13.905	- Info  -	[RemotePluginManager::on_rpc_close] index:1
+[10592]	2025-05-28 11:22:13.905	- Info  -	[main_dlg::OnSendMessageToMain] remote control rpc is disconnected with main, close public plugin with index 1
+[10524]	2025-05-28 11:22:46.064	+Warning+	[passive:keepalive:] 112.124.20.98:443 disconnect by keepalive timeout(190046>=152734+30000)
