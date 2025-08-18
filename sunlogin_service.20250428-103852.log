@@ -1,0 +1,20 @@
+[2768]	2025-04-28 10:38:52.445	- Info  -	Version: 15.8.3.19819, PID: 2764, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe" --mod=service]
+[2768]	2025-04-28 10:38:52.445	- Info  -	[service_main] [main] Service run!
+[2768]	2025-04-28 10:38:52.445	- Info  -	[update_app_agent] [main] do update_app_agent !
+[5240]	2025-04-28 10:38:52.445	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[5240]	2025-04-28 10:38:52.461	- Info  -	[safe_process_pipe::on_restart_process] sunlogin_guard process pipe start!
+[5240]	2025-04-28 10:38:52.461	- Info  -	[agent] DesktopAgentServer created with port 0.
+[5240]	2025-04-28 10:38:52.461	+Warning+	[get_default_interface_ip] no next hop gateway
+[5356]	2025-04-28 10:38:52.477	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[5240]	2025-04-28 10:38:52.477	- Info  -	[CLocalServer::LoadProxy] Not use proxy
+[5356]	2025-04-28 10:38:52.477	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[5240]	2025-04-28 10:38:52.477	- Info  -	[CLocalServer::LoginServer] network error, retrying login server
+[5240]	2025-04-28 10:38:52.477	- Info  -	[CLocalServer::OnGetClientIdResult][LocalServer] get client-id result
+[5264]	2025-04-28 10:38:52.477	- Info  -	[CLocalServer::get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[5240]	2025-04-28 10:38:52.492	- Info  -	[LocalServer] initialize completed
+[5264]	2025-04-28 10:38:52.492	- Info  -	hot_update_api::PostApiInterface post api type = 41
+[5220]	2025-04-28 10:38:52.492	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[5220]	2025-04-28 10:38:52.492	- Info  -	[http::call3][1] disconnected, error( 57349 )
+[5420]	2025-04-28 10:38:52.492	* Error *	[hot_update::deal_update_content_callback] [hot_update_api] get host update failed with -1!
+[5220]	2025-04-28 10:38:52.586	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.228.104:443)
+[5220]	2025-04-28 10:38:52.586	- Info  -	[http::call3][2] disconnected, error( 57349 )
