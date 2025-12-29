@@ -1,0 +1,23 @@
+[2884]	2025-05-09 21:59:50.551	- Info  -	Version: 15.8.3.19819, PID: 2880, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe" --mod=service]
+[2884]	2025-05-09 21:59:50.551	- Info  -	[service_main] [main] Service run!
+[2884]	2025-05-09 21:59:50.551	- Info  -	[update_app_agent] [main] do update_app_agent !
+[4892]	2025-05-09 21:59:50.567	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4892]	2025-05-09 21:59:50.567	- Info  -	[safe_process_pipe::on_restart_process] sunlogin_guard process pipe start!
+[4892]	2025-05-09 21:59:50.567	- Info  -	[agent] DesktopAgentServer created with port 0.
+[4892]	2025-05-09 21:59:50.582	- Info  -	[CLocalServer::LoadProxy] Not use proxy
+[4892]	2025-05-09 21:59:50.582	- Info  -	[get_client_info] get mac address: 00:E0:0A:03:3D:F2
+[4892]	2025-05-09 21:59:50.582	- Info  -	[os] Drive Info :HongKe 240G
+[4892]	2025-05-09 21:59:50.582	- Info  -	[os] Video Controller Info :NVIDIA GeForce GTX 1050 Ti
+[4892]	2025-05-09 21:59:50.582	- Info  -	[get_client_info] os name:Windows 10 Enterprise 2016 LTSB
+[4968]	2025-05-09 21:59:50.613	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4892]	2025-05-09 21:59:50.613	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4956]	2025-05-09 21:59:50.613	- Info  -	[client] Do login start with type: fastcode login type
+[4968]	2025-05-09 21:59:50.613	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4956]	2025-05-09 21:59:50.613	- Info  -	[client] change status to logging
+[4956]	2025-05-09 21:59:50.613	- Info  -	[LocalServer] bind mac address: 00:E0:0A:03:3D:F2
+[5040]	2025-05-09 21:59:50.629	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[5040]	2025-05-09 21:59:50.629	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[4892]	2025-05-09 21:59:50.629	- Info  -	[CLocalServer::OnGetClientIdResult][LocalServer] get client-id result
+[4904]	2025-05-09 21:59:50.629	- Info  -	[CLocalServer::get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[4892]	2025-05-09 21:59:50.645	- Info  -	[LocalServer] initialize completed
+[4904]	2025-05-09 21:59:50.645	- Info  -	hot_update_api::PostApiInterface post api type = 41
