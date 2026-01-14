@@ -1,0 +1,31 @@
+[2728]	2025-05-27 14:44:58.471	- Info  -	Version: 15.8.3.19819, PID: 2724, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe" --mod=service]
+[2728]	2025-05-27 14:44:58.471	- Info  -	[service_main] [main] Service run!
+[2728]	2025-05-27 14:44:58.471	- Info  -	[update_app_agent] [main] do update_app_agent !
+[4928]	2025-05-27 14:44:58.487	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4928]	2025-05-27 14:44:58.487	- Info  -	[safe_process_pipe::on_restart_process] sunlogin_guard process pipe start!
+[4928]	2025-05-27 14:44:58.502	- Info  -	[agent] DesktopAgentServer created with port 0.
+[4928]	2025-05-27 14:44:58.502	- Info  -	[CLocalServer::LoadProxy] Not use proxy
+[4928]	2025-05-27 14:44:58.502	- Info  -	[get_client_info] get mac address: 00:E0:0A:03:3D:F2
+[4928]	2025-05-27 14:44:58.502	- Info  -	[os] Drive Info :HongKe 240G
+[4928]	2025-05-27 14:44:58.502	- Info  -	[os] Video Controller Info :NVIDIA GeForce GTX 1050 Ti
+[4928]	2025-05-27 14:44:58.502	- Info  -	[get_client_info] os name:Windows 10 Enterprise 2016 LTSB
+[4928]	2025-05-27 14:44:58.549	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[5004]	2025-05-27 14:44:58.549	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[5004]	2025-05-27 14:44:58.549	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4992]	2025-05-27 14:44:58.549	- Info  -	[client] Do login start with type: license login type
+[4992]	2025-05-27 14:44:58.549	- Info  -	[client] change status to logging
+[4992]	2025-05-27 14:44:58.549	- Info  -	[LocalServer] bind mac address: 00:E0:0A:03:3D:F2
+[5096]	2025-05-27 14:44:58.565	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[5096]	2025-05-27 14:44:58.565	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[4928]	2025-05-27 14:44:58.565	- Info  -	[CLocalServer::OnGetClientIdResult][LocalServer] get client-id result
+[4940]	2025-05-27 14:44:58.565	- Info  -	[CLocalServer::get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[4928]	2025-05-27 14:44:58.565	- Info  -	[LocalServer] initialize completed
+[4940]	2025-05-27 14:44:58.565	- Info  -	hot_update_api::PostApiInterface post api type = 41
+[4916]	2025-05-27 14:44:58.580	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[4916]	2025-05-27 14:44:58.612	- Info  -	[CSockConnector] attempt to connect server 47.96.156.45:443(47.96.156.45:443)
+[4916]	2025-05-27 14:44:58.690	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.228.106:443)
+[4460]	2025-05-27 14:44:58.776	- Info  -	[hot_update::deal_update_content_callback] [hot_update_api] get host update success!
+[4460]	2025-05-27 14:44:58.776	+Warning+	[hot_update::parse_hot_update_api_data] parse data is null
+[4460]	2025-05-27 14:44:58.776	* Error *	[hot_update::deal_update_content_callback] [hot_update_api] parse data failed
+[4916]	2025-05-27 14:44:58.778	- Info  -	[CSunloginClient::loginWithLicenses] [SunloginClient] IT process_run is 0
+[4916]	2025-05-27 14:44:59.426	- Info  -	[CSockConnector] attempt to connect server rc10-g7.oray.com:443(118.89.125.58:443)
