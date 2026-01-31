@@ -1,0 +1,83 @@
+[2852]	2025-05-20 08:18:55.567	- Info  -	Version: 15.8.3.19819, PID: 2848, CMD: ["D:\Program Files\SunloginClient\SunloginClient.exe" --mod=service]
+[2852]	2025-05-20 08:18:55.567	- Info  -	[service_main] [main] Service run!
+[2852]	2025-05-20 08:18:55.567	- Info  -	[update_app_agent] [main] do update_app_agent !
+[4880]	2025-05-20 08:18:55.582	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4880]	2025-05-20 08:18:55.582	- Info  -	[safe_process_pipe::on_restart_process] sunlogin_guard process pipe start!
+[4880]	2025-05-20 08:18:55.598	- Info  -	[agent] DesktopAgentServer created with port 0.
+[4880]	2025-05-20 08:18:55.598	- Info  -	[CLocalServer::LoadProxy] Not use proxy
+[4880]	2025-05-20 08:18:55.598	- Info  -	[get_client_info] get mac address: 00:E0:0A:03:3D:F2
+[4880]	2025-05-20 08:18:55.598	- Info  -	[os] Drive Info :HongKe 240G
+[4880]	2025-05-20 08:18:55.598	- Info  -	[os] Video Controller Info :NVIDIA GeForce GTX 1050 Ti
+[4880]	2025-05-20 08:18:55.598	- Info  -	[get_client_info] os name:Windows 10 Enterprise 2016 LTSB
+[4880]	2025-05-20 08:18:55.598	- Info  -	[CLocalServer::refresh_mac_address] [LocalServer] m_clientinfo.mac: 00:E0:0A:03:3D:F2
+[4964]	2025-05-20 08:18:55.598	- Info  -	[client] Do login start with type: fastcode login type
+[4964]	2025-05-20 08:18:55.598	- Info  -	[client] change status to logging
+[4964]	2025-05-20 08:18:55.598	- Info  -	[LocalServer] bind mac address: 00:E0:0A:03:3D:F2
+[4976]	2025-05-20 08:18:55.614	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:18:55.614	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4992]	2025-05-20 08:18:55.614	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[4992]	2025-05-20 08:18:55.614	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[4880]	2025-05-20 08:18:55.614	- Info  -	[CLocalServer::OnGetClientIdResult][LocalServer] get client-id result
+[4892]	2025-05-20 08:18:55.614	- Info  -	[CLocalServer::get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[4880]	2025-05-20 08:18:55.614	- Info  -	[LocalServer] initialize completed
+[4892]	2025-05-20 08:18:55.614	- Info  -	hot_update_api::PostApiInterface post api type = 41
+[4872]	2025-05-20 08:18:57.632	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(120.27.239.1:443)
+[4872]	2025-05-20 08:18:58.097	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.228.104:443)
+[4872]	2025-05-20 08:19:00.240	- Info  -	[CSockConnector] attempt to connect server rc10-fc02.oray.com:443(116.62.21.65:443)
+[5028]	2025-05-20 08:19:00.287	- Info  -	[hot_update::deal_update_content_callback] [hot_update_api] get host update success!
+[5028]	2025-05-20 08:19:00.287	+Warning+	[hot_update::parse_hot_update_api_data] parse data is null
+[5028]	2025-05-20 08:19:00.287	* Error *	[hot_update::deal_update_content_callback] [hot_update_api] parse data failed
+[4960]	2025-05-20 08:19:00.365	- Info  -	[service] send logon
+[4960]	2025-05-20 08:19:00.412	- Info  -	[CSunloginClient::SetRemoteID] remote_id:
+[4960]	2025-05-20 08:19:00.412	- Info  -	[service] logon OK, public address: 120.227.184.24:29445
+[4960]	2025-05-20 08:19:00.474	- Info  -	[online] OK
+[4960]	2025-05-20 08:19:00.474	- Info  -	[client] received name: default, description: default.
+[4968]	2025-05-20 08:19:00.474	- Info  -	[service] registering client
+[4960]	2025-05-20 08:19:00.521	- Info  -	[service] client registered
+[4960]	2025-05-20 08:19:00.521	- Info  -	[client] change status to online
+[4960]	2025-05-20 08:19:00.521	- Info  -	[CLocalServer::OnLogin] OnLogin start
+[4892]	2025-05-20 08:19:00.521	- Info  -	[LocalServer] call CLocalServer::UpdateConfigImpl @ 6701
+[4960]	2025-05-20 08:19:00.521	- Info  -	[CLocalServer::OnLogin] OnLogin end
+[4892]	2025-05-20 08:19:00.521	- Info  -	[CLocalServer::UpdateConfigImpl] Set auto_run : true
+[4964]	2025-05-20 08:19:00.630	- Info  -	[client] Do login end with fastcode login type, status: online.
+[4872]	2025-05-20 08:19:02.562	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.40.118.44:443)
+[4872]	2025-05-20 08:19:06.578	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[4872]	2025-05-20 08:19:06.578	- Info  -	[CLocalServer::OnQueryClientFeature] cpu limit 5, crack limit(count:500, interval:60000,maxdelay:300,timeout:50)
+[4872]	2025-05-20 08:19:06.750	- Info  -	[CLocalServer::uploadRemoteInfo] upload remote info ok
+[4976]	2025-05-20 08:19:37.264	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:2, ClientProtocolType:2, UserName:, WinStationName:RDP-Tcp#1| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:19:37.342	- Info  -	[wts_event] logon 0, current session -1, active session 1 @ 215
+[4976]	2025-05-20 08:19:37.357	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:1, ClientProtocolType:2, UserName:, WinStationName:RDP-Tcp#1| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:19:37.357	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:1, ClientProtocolType:2, UserName:, WinStationName:RDP-Tcp#1| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:19:38.024	- Info  -	[wts_event] logon 1, current session 1, active session 1 @ 215
+[4976]	2025-05-20 08:19:38.024	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:0, ClientProtocolType:2, UserName:Administrator, WinStationName:RDP-Tcp#1| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:19:38.024	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:0, ClientProtocolType:2, UserName:Administrator, WinStationName:RDP-Tcp#1| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4996]	2025-05-20 08:19:53.871	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[4996]	2025-05-20 08:19:53.871	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[5000]	2025-05-20 08:19:55.056	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[5000]	2025-05-20 08:19:55.056	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[4996]	2025-05-20 08:19:55.065	- Info  -	[NetworkMonitor::GetNetAdpaterType] NetAdpaterType : 6
+[4996]	2025-05-20 08:19:55.065	- Info  -	[CLocalServer::OnNetWorkChange] nettype :Ethernet
+[4976]	2025-05-20 08:34:00.609	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:4, ClientProtocolType:0, UserName:Administrator, WinStationName:| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:49:02.716	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:4, ClientProtocolType:0, UserName:Administrator, WinStationName:| SessionId:3, ConnectState:2, ClientProtocolType:2, UserName:, WinStationName:RDP-Tcp#3| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:49:03.510	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:4, ClientProtocolType:0, UserName:Administrator, WinStationName:| SessionId:3, ConnectState:1, ClientProtocolType:2, UserName:, WinStationName:RDP-Tcp#3| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:49:04.162	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:4, ClientProtocolType:0, UserName:Administrator, WinStationName:| SessionId:3, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:49:04.487	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:0, ClientProtocolType:2, UserName:Administrator, WinStationName:RDP-Tcp#3| SessionId:3, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 08:49:04.572	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:0, ClientProtocolType:2, UserName:Administrator, WinStationName:RDP-Tcp#3| SessionId:3, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 13:09:40.500	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp#3| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 13:09:40.578	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:1, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp#3| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 13:09:40.672	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp#3| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[4976]	2025-05-20 13:09:40.859	- Info  -	[enumsession] session list: SessionId:0, ConnectState:4, ClientProtocolType:0, UserName:, WinStationName:Services| SessionId:1, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:Console| SessionId:2, ConnectState:8, ClientProtocolType:0, UserName:, WinStationName:| SessionId:65536, ConnectState:6, ClientProtocolType:0, UserName:, WinStationName:RDP-Tcp| 
+[2852]	2025-05-20 13:09:41.091	- Info  -	[ntservice] SERVICE_CONTROL_SHUTDOWN************
+[2852]	2025-05-20 13:09:41.091	- Info  -	[LocalServer] call CLocalServer::Logout @ 7164
+[4964]	2025-05-20 13:09:41.091	- Info  -	[client] doLogout ...
+[4964]	2025-05-20 13:09:41.091	- Info  -	[RemoteControl] disconnected server(116.62.21.65:443),error code:0
+[4964]	2025-05-20 13:09:41.091	* Error *	[online] online disconnected,error code:0
+[4964]	2025-05-20 13:09:41.091	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [COnlineHandler::OnDisconnect:86]
+[4964]	2025-05-20 13:09:41.091	- Info  -	[service] disconnected server(116.62.21.65:443),errorcode:0
+[4964]	2025-05-20 13:09:41.091	- Info  -	[client] change status from online to offline
+[4964]	2025-05-20 13:09:41.091	- Info  -	[client] change status to offline
+[2852]	2025-05-20 13:09:41.091	- Info  -	[CLocalServer::StopAllProjections] stop all projections
+[2852]	2025-05-20 13:09:41.091	- Info  -	[CLocalServer::StopAllProjections] stop all projections
+[2852]	2025-05-20 13:09:41.091	- Info  -	[safe_process_pipe::on_close_process] sunlogin_guard process pipe stop!
+[2852]	2025-05-20 13:09:41.091	- Info  -	[main] service_main end. return 0
+[4872]	2025-05-20 13:09:42.154	- Info  -	[CSockConnector] attempt to connect server 121.40.118.44:443(121.40.118.44:443)
